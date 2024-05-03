@@ -28,7 +28,10 @@
     color: pink;
   }
 
- 
+  /* rule 6 */
+  #main #subsection {
+    color: black;
+  }
   
 
   
