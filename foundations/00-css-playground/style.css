@@ -1,0 +1,34 @@
+*{
+    font-size: 50px;
+}
+
+/* rule 1 */
+#subsection {
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .main .list {
+    color: red;
+  }
+  
+  /* rule 3 */
+  .main #subsection {
+      color: green;
+  }
+  
+  /* rule 4 */
+  div.main #subsection {
+      color: purple;
+  }
+
+  /* rule 5 */
+
+  div#main .list{
+    color: pink;
+  }
+
+ 
+  
+
+  
