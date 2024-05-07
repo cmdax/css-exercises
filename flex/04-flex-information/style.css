@@ -29,7 +29,7 @@ img {
 
 .list-elements{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   gap: 52px;
   margin: auto 50px;
 }
