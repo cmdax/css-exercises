@@ -24,3 +24,30 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20 px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  width: 200px;
+}
+
+.text {
+  text-align: center;
+}
